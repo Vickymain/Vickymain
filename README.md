@@ -1,8 +1,9 @@
 # Hi, I’m **Maina Wanjohi**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maina-wanjohi-733624303/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4q.xw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4q.xw)
 
-Full-Stack Developer
-
-Building practical, functional web systems and experimenting with clean, scalable architecture.
+A Full-Stack Developer building practical, functional web systems.
 
 ---
 
@@ -36,13 +37,4 @@ Building practical, functional web systems and experimenting with clean, scalabl
 
 ---
 
-## **Let’s Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maina-wanjohi-733624303/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4q.xw)
-
----
-
-**Always open to collaborations on practical web systems, clean backend design, or anything interestingly over-engineered.**
-
----
