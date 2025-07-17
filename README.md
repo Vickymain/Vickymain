@@ -1,32 +1,12 @@
 # Hi, I’m **Maina Wanjohi**
 
-### **Full-Stack Developer | Web Systems Enthusiast**
+Full-Stack Developer
 
 Building practical, functional web systems and experimenting with clean, scalable architecture.
 
 ---
 
-![Tanjiro](tanjiro.jpeg)
 
-
-## **Current Focus**
-
-| Area         | Description                                                                 |
-| ------------ | --------------------------------------------------------------------------- |
-| **Building** | Improving **POSHPOINT** with better analytics and admin control workflows.   |
-| **Refining** | Optimizing **QuickDrop** for smoother delivery request handling.             |
-| **Learning** | Sharpening backend design patterns in Django & Laravel.                      |
-
----
-
-## **Projects**
-
-| Project                                                                 | Description                                                                               | Tech Stack                  |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------- |
-| [POSHPOINT](https://github.com/Vickymain/POSHPOINT)                     | Simple POS system with product & employee management under one clean dashboard.           | Laravel, MySQL, Bootstrap   |
-| [QuickDrop](https://github.com/Vickymain/QuickDrop)                     | Crowdsourced delivery system with marketplace-style order management.                     | Django, PostgreSQL, React   |
-
----
 
 ## **Tech Stack**
 
