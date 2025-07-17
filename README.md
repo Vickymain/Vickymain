@@ -1,7 +1,7 @@
 # Hi, I’m **Maina Wanjohi**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maina-wanjohi-733624303/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4q.xw)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4q.xw)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E34F26?style=for-the-badge&)](https://wanjohisportfolio.vercel.app/)
 
 A Full-Stack Developer building practical, functional web systems.
 
