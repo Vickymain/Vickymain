@@ -5,7 +5,9 @@
 Building practical, functional web systems and experimenting with clean, scalable architecture.
 
 ---
-<img src="tanjiro.jpeg" alt="Tanjiro" width="400" style="border-radius:10px;"/>
+
+![Tanjiro](tanjiro.jpeg)
+
 
 ## **Current Focus**
 
