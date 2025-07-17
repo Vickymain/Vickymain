@@ -1,13 +1,14 @@
 # Hey, I’m **Wanjohi** 👋  
 
-I build things for the web, sometimes just for fun, sometimes because it actually makes sense.  
+I build web stuff — some of it useful, some of it just because I can.  
+Mostly keeping it simple, clean, and working.  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r4q.xw)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maina-wanjohi-733624303/)  
 
 ---
 
-### **What I Speak (Code-wise):**  
+## **Tech I Mess With**  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -22,8 +23,38 @@ I build things for the web, sometimes just for fun, sometimes because it actuall
 
 ---
 
-### **Current GitHub Mood:**  
-![](https://nirzak-streak-stats.vercel.app/?user=Vickymain&theme=calm&hide_border=false)
+## **Projects That Actually Exist**  
+
+| Project | What It Does | Status |
+|---------|-------------|--------|
+| **POSHPOINT** | A simple POS system where an admin manages products & employees under one dashboard. | ✅ Works smoothly |
+| **QuickDrop** | A crowdsourced delivery system — think "community-driven courier service." | 🚧 Evolving |
 
 ---
 
+## **What I’m Doing Right Now**  
+- Tweaking **QuickDrop** to make it less chaotic.  
+- Adding cleaner analytics to **POSHPOINT**.  
+- Breaking and fixing things on purpose (it’s how you learn).  
+
+---
+
+## **GitHub Mood Tracker**  
+![](https://nirzak-streak-stats.vercel.app/?user=Vickymain&theme=calm&hide_border=false)  
+
+---
+
+## **Random but True**  
+- ☕ **Coffee-powered commits.**  
+- 🔧 **Writes, breaks, and fixes — in that order.**  
+- 😎 **Doesn’t overcomplicate what doesn’t need to be.**  
+
+---
+
+### **Ping Me (If You Want)**  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r4q.xw)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maina-wanjohi-733624303/)  
+
+---
+
+<!-- Chill, minimal, but gives off "I actually build real stuff" energy -->
