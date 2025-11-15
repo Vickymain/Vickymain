@@ -24,17 +24,3 @@ A Full-Stack Developer building practical, functional web systems.
 
 ---
 
-## **GitHub Analytics**
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vickymain&show_icons=true&hide_border=true&theme=codeSTACKr) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickymain&layout=compact&hide_border=true&theme=github_dark) |
-| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-
----
-
-## **Contribution Streak**
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vickymain&theme=dark&hide_border=true)
-
----
-
-
